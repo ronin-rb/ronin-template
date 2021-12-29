@@ -21,7 +21,7 @@ ronin-FIXME is an example library for ronin-rb.
 
 ## Synopsis
 
-    $ ronin FIXME
+    $ ronin-FIXME
 
 ## Requirements
 
