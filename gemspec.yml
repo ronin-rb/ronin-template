@@ -1,0 +1,29 @@
+name: ronin-FIXME
+summary: FIXME
+description: |
+  FIXME
+
+license: LGPL-3.0
+authors: FIXME
+email: FIXME
+homepage: https://ronin-rb.dev/
+has_yard: true
+
+metadata:
+  documentation_uri: https://rubydoc.info/gems/ronin-FIXME
+  source_code_uri:   https://github.com/ronin-rb/ronin-FIXME
+  bug_tracker_uri:   https://github.com/ronin-rb/ronin-FIXME/issues
+  changelog_uri:     https://github.com/ronin-rb/ronin-FIXME/blob/master/ChangeLog.md
+
+# generated_files:
+#  - man/ronin-FIXME.1
+
+required_ruby_version: ">= 2.7.0"
+
+dependencies:
+  # Ronin dependencies:
+  # ronin-support: ~> 1.0
+  # ronin-core: ~> 0.1
+
+development_dependencies:
+  bundler: ~> 2.0
