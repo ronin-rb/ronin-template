@@ -43,6 +43,12 @@ $ gem install ronin-FIXME
 gem 'ronin-FIXME', '~> 0.1'
 ```
 
+### gemspec
+
+```ruby
+gem.add_dependency 'ronin-FIXME', '~> 0.1'
+```
+
 ## Development
 
 1. [Fork It!](https://github.com/ronin-rb/ronin-FIXME/fork)
