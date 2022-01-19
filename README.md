@@ -21,7 +21,9 @@ ronin-FIXME is an example library for ronin-rb.
 
 ## Synopsis
 
-    $ ronin-FIXME
+```shell
+$ ronin-FIXME
+```
 
 ## Requirements
 
@@ -31,11 +33,15 @@ ronin-FIXME is an example library for ronin-rb.
 
 ## Install
 
-    $ gem install ronin-FIXME
+```shell
+$ gem install ronin-FIXME
+```
 
 ### Gemfile
 
-    gem 'ronin-FIXME', '~> 0.1'
+```ruby
+gem 'ronin-FIXME', '~> 0.1'
+```
 
 ## Development
 
