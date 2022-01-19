@@ -62,7 +62,7 @@ gem.add_dependency 'ronin-FIXME', '~> 0.1'
 
 ## License
 
-Copyright (c) 2021 FIXME (FIXME@FIXME)
+Copyright (c) 2022 FIXME (FIXME@FIXME)
 
 This file is part of ronin-FIXME.
 
