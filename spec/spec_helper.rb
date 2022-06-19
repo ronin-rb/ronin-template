@@ -2,6 +2,6 @@ require 'rspec'
 require 'simplecov'
 require 'ronin/FIXME/version'
 
-include Ronin
+include Ronin::FIXME
 
 SimpleCov.start
