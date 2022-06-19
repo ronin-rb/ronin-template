@@ -14,11 +14,12 @@ metadata:
   source_code_uri:   https://github.com/ronin-rb/ronin-FIXME
   bug_tracker_uri:   https://github.com/ronin-rb/ronin-FIXME/issues
   changelog_uri:     https://github.com/ronin-rb/ronin-FIXME/blob/master/ChangeLog.md
+  rubygems_mfa_required: 'true'
 
 # generated_files:
 #  - man/ronin-FIXME.1
 
-required_ruby_version: ">= 2.7.0"
+required_ruby_version: ">= 3.0.0"
 
 dependencies:
   # Ronin dependencies:
