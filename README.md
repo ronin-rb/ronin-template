@@ -64,8 +64,6 @@ gem.add_dependency 'ronin-FIXME', '~> 0.1'
 
 Copyright (c) 2022 FIXME (FIXME@FIXME)
 
-This file is part of ronin-FIXME.
-
 ronin-FIXME is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published
 by the Free Software Foundation, either version 3 of the License, or
