@@ -24,8 +24,8 @@ group :development do
   gem 'yard',           '~> 0.9'
   gem 'yard-spellcheck', require: false
 
-  gem 'dead_end', require: false
-  gem 'sord',     require: false
-
-  gem 'rubocop',  require: false
+  gem 'dead_end',  require: false
+  gem 'sord',      require: false
+  gem 'stackprof', require: false
+  gem 'rubocop',   require: false
 end
