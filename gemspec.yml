@@ -13,7 +13,7 @@ metadata:
   documentation_uri: https://rubydoc.info/gems/ronin-FIXME
   source_code_uri:   https://github.com/ronin-rb/ronin-FIXME
   bug_tracker_uri:   https://github.com/ronin-rb/ronin-FIXME/issues
-  changelog_uri:     https://github.com/ronin-rb/ronin-FIXME/blob/master/ChangeLog.md
+  changelog_uri:     https://github.com/ronin-rb/ronin-FIXME/blob/main/ChangeLog.md
   rubygems_mfa_required: 'true'
 
 # generated_files:
