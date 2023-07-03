@@ -16,15 +16,15 @@ metadata:
   changelog_uri:     https://github.com/ronin-rb/ronin-FIXME/blob/main/ChangeLog.md
   rubygems_mfa_required: 'true'
 
-# generated_files:
-#  - man/ronin-FIXME.1
+generated_files:
+ - man/ronin-FIXME.1
 
 required_ruby_version: ">= 3.0.0"
 
 dependencies:
   # Ronin dependencies:
   # ronin-support: ~> 1.0
-  # ronin-core: ~> 0.1
+  ronin-core: ~> 0.1
 
 development_dependencies:
   bundler: ">= 2.0.0"
