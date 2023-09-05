@@ -8,7 +8,6 @@
 * [Issues](https://github.com/ronin-rb/ronin-FIXME/issues)
 * [Documentation](https://ronin-rb.dev/docs/ronin-FIXME)
 * [Discord](https://discord.gg/6WAb3PsVX9) |
-  [Twitter](https://twitter.com/ronin_rb) |
   [Mastodon](https://infosec.exchange/@ronin_rb)
 
 ## Description
