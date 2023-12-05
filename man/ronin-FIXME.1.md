@@ -1,5 +1,9 @@
 # ronin-FIXME 1 "2024-01-01" Ronin "User Manuals"
 
+## NAME
+
+ronin-FIXME - FIXME
+
 ## SYNOPSIS
 
 `ronin-FIXME` [*options*] [*COMMAND* [...]]
