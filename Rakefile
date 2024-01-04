@@ -32,3 +32,10 @@ task :docs => :yard
 
 require 'kramdown/man/task'
 Kramdown::Man::Task.new
+
+require 'command_kit/completion/task'
+CommandKit::Completion::Task.new(
+  class_file:  'ronin/FIXME/cli',
+  class_name:  'Ronin::FIXME::CLI',
+  output_file: 'data/completions/ronin-FIXME'
+)
