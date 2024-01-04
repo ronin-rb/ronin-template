@@ -24,6 +24,9 @@ Runs a `ronin-FIXME` *COMMAND*.
 
 ## COMMANDS
 
+*completion*
+: Manages the shell completion rules for `ronin-FIXME`.
+
 *FIXME*
 : FIXME
 
