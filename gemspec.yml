@@ -17,6 +17,7 @@ metadata:
   rubygems_mfa_required: 'true'
 
 generated_files:
+ - data/completions/ronin-FIXME
  - man/ronin-FIXME.1
  - man/ronin-FIXME-FIXME.1
 
