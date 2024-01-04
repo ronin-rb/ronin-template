@@ -19,6 +19,7 @@ metadata:
 generated_files:
  - data/completions/ronin-FIXME
  - man/ronin-FIXME.1
+ - man/ronin-FIXME-completion.1
  - man/ronin-FIXME-FIXME.1
 
 required_ruby_version: ">= 3.0.0"
@@ -26,7 +27,7 @@ required_ruby_version: ">= 3.0.0"
 dependencies:
   # Ronin dependencies:
   # ronin-support: ~> 1.0
-  ronin-core: ~> 0.1
+  ronin-core: ~> 0.2
 
 development_dependencies:
   bundler: ">= 2.0.0"
