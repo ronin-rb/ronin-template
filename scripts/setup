@@ -53,3 +53,6 @@ fi
 
 log "Installing gems ..."
 bundle install || fail "Failed to run 'bundle install'!"
+
+log "Setting up the project ..."
+bundle exec rake setup || "Failed to run 'rake setup'!"
