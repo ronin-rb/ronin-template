@@ -39,3 +39,5 @@ CommandKit::Completion::Task.new(
   class_name:  'Ronin::FIXME::CLI',
   output_file: 'data/completions/ronin-FIXME'
 )
+
+task :setup => %w[man command_kit:completion]
