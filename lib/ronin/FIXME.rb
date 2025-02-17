@@ -18,4 +18,4 @@
 # along with ronin-FIXME.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-require 'ronin/FIXME/version'
+require_relative 'FIXME/version'
