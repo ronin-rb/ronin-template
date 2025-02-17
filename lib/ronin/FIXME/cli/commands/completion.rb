@@ -18,8 +18,9 @@
 # along with ronin-FIXME.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-require 'ronin/FIXME/root'
 require 'ronin/core/cli/completion_command'
+
+require_relative '../../root'
 
 module Ronin
   module FIXME
