@@ -18,11 +18,11 @@
 # along with ronin-FIXME.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-require 'ronin/FIXME/version'
-
 require 'command_kit/commands'
 require 'command_kit/commands/auto_load'
 require 'command_kit/options/version'
+
+require_relative 'version'
 
 module Ronin
   module FIXME

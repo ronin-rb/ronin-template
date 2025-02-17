@@ -18,7 +18,7 @@
 # along with ronin-FIXME.  If not, see <https://www.gnu.org/licenses/>.
 #
 
-require 'ronin/FIXME/cli/command'
+require_relative '../command'
 
 module Ronin
   module FIXME
